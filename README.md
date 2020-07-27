@@ -10,15 +10,15 @@ JDK is an acronym for Java Development Kit. The Java Development Kit (JDK) is a 
 
 # A list of most important features of Java language is given below.
 Java is
-    * Simple
-    * Object-Oriented
-    * Portable
-    * Platform independent
-    * Secured
-    * Robust
-    * Architecture neutral
-    * Interpreted
-    * High Performance
-    * 1Multithreaded
-    * Distributed
-    * Dynamic
+     Simple
+     Object-Oriented
+     Portable
+     Platform independent
+     Secured
+     Robust
+     Architecture neutral
+     Interpreted
+     High Performance
+     Multithreaded
+     Distributed
+     Dynamic
