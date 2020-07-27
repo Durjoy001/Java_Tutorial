@@ -7,3 +7,18 @@ JVM (Java Virtual Machine) is an abstract machine. It is called a virtual machin
 JRE is an acronym for Java Runtime Environment. It is also written as Java RTE. The Java Runtime Environment is a set of software tools which are used for developing Java applications. It is used to provide the runtime environment. It is the implementation of JVM. It physically exists. It contains a set of libraries + other files that JVM uses at runtime.
 
 JDK is an acronym for Java Development Kit. The Java Development Kit (JDK) is a software development environment which is used to develop Java applications and applets. It physically exists. It contains JRE + development tools. 
+
+# A list of most important features of Java language is given below.
+Java is
+    1.Simple
+    2.Object-Oriented
+    3.Portable
+    4.Platform independent
+    5.Secured
+    6.Robust
+    7.Architecture neutral
+    8.Interpreted
+    9.High Performance
+    10.Multithreaded
+    11.Distributed
+    12.Dynamic
