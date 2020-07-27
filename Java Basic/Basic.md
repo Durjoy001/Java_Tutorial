@@ -2,6 +2,6 @@ A class should always start with an uppercase first letter. Java is case-sensiti
 The name of the java file must match the class name. When saving the file, save it using the class name and add ".java" to the end of the filename.
 
 # Data types are divided into two groups:
-    Primitive data types - includes byte, short, int, long, float, double, boolean and char
+    Primitive data types - includes byte(1 byte), short(2 bytes), int(4 bytes), long(8 bytes), float(4 bytes), double(8 bytes), boolean(1 bit) and char(2 bytes)
     Non-primitive data types - such as String, Arrays and Classes (you will learn more about these in a later chapter)
 
