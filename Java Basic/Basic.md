@@ -7,7 +7,7 @@ The name of the java file must match the class name. When saving the file, save 
 
 # Use float or double?
     The precision of a floating point value indicates how many digits the value can have after the decimal point. 
-    The precision of float is only six or seven decimal digits, while double variables have a precision of about 15 digits. 
+    The precision of float(4 bytes) is only six or seven decimal digits, while double(8 bytes) variables have a precision of about 15 digits. 
     Therefore it is safer to use double for most calculations. 
     
 # Java Type Casting
