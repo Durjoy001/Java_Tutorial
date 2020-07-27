@@ -9,16 +9,16 @@ JRE is an acronym for Java Runtime Environment. It is also written as Java RTE. 
 JDK is an acronym for Java Development Kit. The Java Development Kit (JDK) is a software development environment which is used to develop Java applications and applets. It physically exists. It contains JRE + development tools. 
 
 # A list of most important features of Java language is given below.
-Java is
+Java is  
      * Simple  
      * Object-Oriented  
      * Portable  
      * Platform independent  
      * Secured  
      * Robust  
-     *Architecture neutral  
-     *Interpreted  
-     *High Performance  
-     *Multithreaded  
-     *Distributed  
-     *Dynamic
+     * Architecture neutral  
+     * Interpreted  
+     * High Performance  
+     * Multithreaded  
+     * Distributed  
+     * Dynamic
