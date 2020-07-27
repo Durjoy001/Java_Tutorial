@@ -8,4 +8,14 @@ The name of the java file must match the class name. When saving the file, save 
 # Use float or double?
     The precision of a floating point value indicates how many digits the value can have after the decimal point. 
     The precision of float is only six or seven decimal digits, while double variables have a precision of about 15 digits. 
-    Therefore it is safer to use double for most calculations.              
+    Therefore it is safer to use double for most calculations. 
+    
+# Java Type Casting
+Type casting is when you assign a value of one primitive data type to another type.
+In Java, there are two types of casting:
+
+    Widening Casting (automatically) - converting a smaller type to a larger type size
+    byte -> short -> char -> int -> long -> float -> double
+
+    Narrowing Casting (manually) - converting a larger type to a smaller size type
+    double -> float -> long -> int -> char -> short -> byte 
