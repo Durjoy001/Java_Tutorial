@@ -1,3 +1,4 @@
+# Method  
 A method is a block of code which only runs when it is called.
 You can pass data, known as parameters, into a method.
 
@@ -29,4 +30,11 @@ You can add as many parameters as you want, just separate them with a comma.
 # Return Values  
 The void keyword, used in the examples above, indicates that the method should not return a value.   
 If you want the method to return a value, you can use a primitive data type (such as int, char, etc.)  
-instead of void, and use the return keyword inside the method:  
+instead of void, and use the return keyword inside the method:    
+  
+# Method Overloading   
+With method overloading, multiple methods can have the same name with different parameters:  
+int myMethod(int x)  
+float myMethod(float x)  
+double myMethod(double x, double y)  
+Note: Multiple methods can have the same name as long as the number and/or type of parameters are different.  
