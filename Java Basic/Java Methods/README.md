@@ -33,7 +33,7 @@ If you want the method to return a value, you can use a primitive data type (suc
 instead of void, and use the return keyword inside the method:    
   
 # Method Overloading   
-With method overloading, multiple methods can have the same name with different parameters:  
+ * With method overloading, multiple methods can have the same name with different parameters:  
 int myMethod(int x)  
 float myMethod(float x)  
 double myMethod(double x, double y)  
