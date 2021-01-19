@@ -12,5 +12,16 @@ Instance variable in Java:
 **A variable which is created inside the class but outside the method is known as an instance variable.**   
 
 new keyword in Java:  
-**The new keyword is used to allocate memory at runtime. All objects get memory in Heap memory area. Object gets the memory in heap memory area. The reference variable refers to the object allocated in the heap memory area.**   
+**The new keyword is used to allocate memory at runtime. All objects get memory in Heap memory area. Object gets the memory in heap memory area. The reference variable refers to the object allocated in the heap memory area.**    
+
+### Anonymous object:  
+**Anonymous simply means nameless. An object which has no reference is known as an anonymous object(no name).If you have to use an object only once, an anonymous object is a good approach.**  
+
+    new Student();//anonymous object,,here student is a class   
+    
+    Calling method through an anonymous object:
+    new Student().insert(5);   
+
+
+    
 
