@@ -12,5 +12,5 @@ Instance variable in Java:
 **A variable which is created inside the class but outside the method is known as an instance variable.**   
 
 new keyword in Java:  
-**The new keyword is used to allocate memory at runtime. All objects get memory in Heap memory area.**   
+**The new keyword is used to allocate memory at runtime. All objects get memory in Heap memory area. Object gets the memory in heap memory area. The reference variable refers to the object allocated in the heap memory area.**   
 
