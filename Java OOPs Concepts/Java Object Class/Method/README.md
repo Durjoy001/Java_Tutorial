@@ -13,7 +13,10 @@ A method that has static keyword is known as static method. In other words, a me
 **The main advantage of a static method is that we can call it without creating an object.** It can access static data members and also change the value of it. It is used to create an instance method. It is invoked by using the class name. The best example of a static method is the main() method.   
 
 ### Instance Method
-The method of the class is known as an instance method. It is a non-static method defined in the class. Before calling or invoking the instance method, it is necessary to create an object of its class. Let's see an example of an instance method.  
+The method of the class is known as an instance method. It is a **non-static method** defined in the class. Before calling or invoking the instance method, it is necessary to create an object of its class. Let's see an example of an instance method.  
 
+### Abstract Method
+The method that does not has method body is known as abstract method. In other words, without an implementation is known as abstract method. It always declares in the abstract class. It means the class itself must be abstract if it has abstract method. To create an abstract method, we use the keyword abstract.   
 
-    
+### Factory method   
+It is a method that returns an object to the class to which it belongs. All static methods are factory methods.   
