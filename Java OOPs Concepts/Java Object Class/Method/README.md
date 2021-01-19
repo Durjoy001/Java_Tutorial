@@ -8,5 +8,12 @@ Access Specifier: Access specifier or modifier is the access type of the method.
 **Protected:** When we use protected access specifier, the method is **accessible within the same package or subclasses in a different package.**     
 **Default:** When we do not use any access specifier in the method declaration, Java uses default access specifier by default. It is **visible only from the same package only.**   
 
+### Static Method  
+A method that has static keyword is known as static method. In other words, a method that belongs to a class rather than an instance of a class is known as a static method.  
+**The main advantage of a static method is that we can call it without creating an object.** It can access static data members and also change the value of it. It is used to create an instance method. It is invoked by using the class name. The best example of a static method is the main() method.   
+
+### Instance Method
+The method of the class is known as an instance method. It is a non-static method defined in the class. Before calling or invoking the instance method, it is necessary to create an object of its class. Let's see an example of an instance method.  
+
 
     
