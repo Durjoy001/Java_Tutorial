@@ -12,5 +12,13 @@ If you apply static keyword with any method, it is known as static method.
 * A static method can be invoked without the need for creating an instance/object of a class.  
 * A static method can access static data member and can change the value of it.  
 
+**Restrictions for the static method:**   
+* The static method can not use non static data member or call non-static method directly.  
+* this and super cannot be used in static context.  
+
+### Why is the Java main method static?  
+It is because the object is not required to call a static method. If it were a non-static method, JVM creates an object first then call main() method that will lead the problem of extra memory allocation.    
+
+
 
 
