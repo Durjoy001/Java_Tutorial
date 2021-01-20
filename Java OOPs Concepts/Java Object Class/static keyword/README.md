@@ -4,7 +4,13 @@
 ### Java static variable:  
 **If we declare any variable as static, it is known as a static variable.**   
 * The static variable can be used to refer to the common property of all objects (which is not unique for each object), for example, the company name of employees, college name of students, etc.  
-* **Advantages of static variable : It makes your program memory efficient (i.e., it saves memory). Static variable will get the memory only once.**     
+* **Advantages of static variable : It makes your program memory efficient (i.e., it saves memory). Static variable will get the memory only once.**      
+ 
+### Java static method:   
+If you apply static keyword with any method, it is known as static method.  
+* A static method belongs to the class rather than the object of a class.  
+* A static method can be invoked without the need for creating an instance/object of a class.  
+* A static method can access static data member and can change the value of it.  
 
 
 
