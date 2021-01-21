@@ -18,6 +18,9 @@ No, a static method cannot be overridden. It can be proved by runtime polymorphi
 It is because the static method is bound with class whereas instance method is bound with an object. Static belongs to the class area, and an instance belongs to the heap area.    
 
 **Can we override java main method?**  
-No, because the main is a static method.   
+No, because the main is a static method.     
+
+**Method overloading is the example of compile time polymorphism. Method overriding is the example of run time polymorphism.**   
+
 
 
