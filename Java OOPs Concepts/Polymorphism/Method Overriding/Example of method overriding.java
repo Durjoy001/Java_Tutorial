@@ -17,6 +17,6 @@ public class ObjectAndClass extends Vehicle{
     public static void main(String[] args) { 
     
         ObjectAndClass obj = new ObjectAndClass();//creating object  
-        obj.run();//calling method
+        obj.run();//this is a non-static method so,we have to create object to call this
     }
 }
