@@ -28,3 +28,14 @@ Multiple inheritance is not supported in Java through class. (When one class inh
 
 #### :boom:Hierarchical Inheritance:  
 **When two or more classes inherits a single class, it is known as hierarchical inheritance.** In the example, Dog and Cat classes inherits the Animal class, so there is hierarchical inheritance.  
+
+### Why multiple inheritance is not supported in java?  
+To reduce the complexity and simplify the language, multiple inheritance is not supported in java.   
+
+**Consider a scenario where A, B, and C are three classes. The C class inherits A and B classes. If A and B classes have the same method and you call it from child class object, there will be ambiguity to call the method of A or B class. whether there are same method or different, there will be compile time error.**   
+
+
+
+
+
+
