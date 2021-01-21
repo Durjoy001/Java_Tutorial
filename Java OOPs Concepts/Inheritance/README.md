@@ -14,3 +14,17 @@ Why use inheritance in java:
 
 The **extends keyword** indicates that you are making a new class that derives from an existing class. The meaning of "extends" is to increase the functionality.  
 
+### Types of inheritance in java:   
+**On the basis of class, there can be three types of inheritance in java: single, multilevel and hierarchical.**  
+
+**In java programming, multiple and hybrid inheritance is supported through interface only.
+Multiple inheritance is not supported in Java through class. (When one class inherits multiple classes, it is known as multiple inheritance.)**   
+
+#### :boom:Single Inheritance:   
+**When a class inherits another class, it is known as a single inheritance.** In the example, Dog class inherits the Animal class, so there is the single inheritance.   
+
+#### :boom:Multilevel Inheritance:   
+**When there is a chain of inheritance, it is known as multilevel inheritance.** As in the example, BabyDog class inherits the Dog class which again inherits the Animal class, so there is a multilevel inheritance.  
+
+#### :boom:Hierarchical Inheritance:  
+**When two or more classes inherits a single class, it is known as hierarchical inheritance.** In the example, Dog and Cat classes inherits the Animal class, so there is hierarchical inheritance.  
