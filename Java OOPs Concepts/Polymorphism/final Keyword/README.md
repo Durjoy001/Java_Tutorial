@@ -12,3 +12,10 @@
 * **Stop value change.**     
 * **Stop method overriding.**       
 * **Stop Inheritance.**          
+
+### Java final method:   
+**If you make any method as final, you cannot override it.**    
+
+### Java final class:   
+**If you make any class as final, you cannot extend it.**    
+
