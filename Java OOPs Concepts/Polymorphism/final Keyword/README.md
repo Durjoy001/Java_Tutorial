@@ -4,14 +4,14 @@
 * method   
 * class   
 
-### Java final variable:      
-
-**If you make any variable as final, you cannot change the value of final variable(It will be constant).**    
-
 **Java final keyword:**      
 * **Stop value change.**     
 * **Stop method overriding.**       
-* **Stop Inheritance.**          
+* **Stop Inheritance.**   
+
+### Java final variable:      
+
+**If you make any variable as final, you cannot change the value of final variable(It will be constant).**           
 
 ### Java final method:   
 **If you make any method as final, you cannot override it.**    
