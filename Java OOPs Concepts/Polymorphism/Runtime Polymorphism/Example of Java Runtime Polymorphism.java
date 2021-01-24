@@ -15,7 +15,7 @@ class Splendor extends Bike{
     }
 }
 //Test class to create objects and call the methods 
-public class ObjectAndClass extends Bike{ 
+public class ObjectAndClass{ 
     public static void main(String[] args) { 
           Bike obj = new Splendor();//Upcasting
           obj.run();
