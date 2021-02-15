@@ -14,3 +14,11 @@ In other words, you can say that interfaces can have abstract methods and variab
 **A class extends another class, an interface extends another interface, but a class implements an interface.**    
 
 **If a class implements multiple interfaces, or an interface extends multiple interfaces, it is known as multiple inheritance.**   
+
+**Q) Multiple inheritance is not supported through class in java, but it is possible by an interface, why?**  
+As we have explained in the inheritance chapter, multiple inheritance is not supported in the case of class because of ambiguity. However, it is supported in case of an interface because there is no ambiguity. It is because its implementation is provided by the implementation class.   
+
+**Since Java 8, we can have method body in interface. But we need to make it default method.**     
+
+**An interface can have another interface which is known as a nested interface.**   
+
