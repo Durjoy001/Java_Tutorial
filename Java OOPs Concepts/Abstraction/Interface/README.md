@@ -9,4 +9,8 @@ In other words, you can say that interfaces can have abstract methods and variab
 * By interface, we can support the functionality of multiple inheritance.  
 * It can be used to achieve loose coupling.   
  
-**Interface fields are public, static and final by default, and the methods are public and abstract by default.**  
+**Interface fields are public, static and final by default, and the methods are public and abstract by default.**    
+
+**A class extends another class, an interface extends another interface, but a class implements an interface.**    
+
+**If a class implements multiple interfaces, or an interface extends multiple interfaces, it is known as multiple inheritance.**   
