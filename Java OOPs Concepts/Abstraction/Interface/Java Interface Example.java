@@ -8,7 +8,8 @@ interface printable{
 }  
 class A6 implements printable{  
     @Override
-    public void print(){System.out.println("Hello");}  
+    public void print(){System.out.println("Hello");}  //have to add public keyword before void 
+   //because in printable interface print method is public by default.
     
 }
 public class ObjectAndClass{
