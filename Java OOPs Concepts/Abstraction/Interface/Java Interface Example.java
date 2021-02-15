@@ -4,7 +4,7 @@ package objectandclass;
  * @author Durjoy
  */  
 interface printable{  
-   void print();  
+   void print();  //method is abstract and public by default, so we don't need to use abstract keyword. 
 }  
 class A6 implements printable{  
     @Override
